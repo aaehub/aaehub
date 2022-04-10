@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aaehub
+- 👀 I’m interested in java / html-css & javascript
+- 🌱 I’m currently learning php
+- 📫 How to reach me @abdulrahmanaae at twitter
